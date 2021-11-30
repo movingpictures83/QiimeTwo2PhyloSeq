@@ -1,0 +1,3 @@
+otutable	otu_table.qza
+taxtable	tax_table.qza
+metadata	mapping.txt
